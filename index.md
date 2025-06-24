@@ -48,5 +48,22 @@ Currently developing practical AI projects to apply my learning and build hands-
 
 ## Contact Me
 
-- Email: asm022lb@aou.edu.lb  
-- Phone: +961 71 679 208
+- Email: <a href="mailto:asm022lb@aou.edu.lb" style="text-decoration:none; color:inherit;">asm022lb@aou.edu.lb</a>
+  <button onclick="copyEmail()" style="margin-left:10px; cursor:pointer;">Copy</button>
+
+- Phone: <a href="tel:+96171679208" style="text-decoration:none; color:inherit;">Call: +961 71 679 208</a>
+  <button onclick="copyPhoneNumber()" style="margin-left:10px; cursor:pointer;">Copy</button>
+
+<script>
+  function copyEmail() {
+    navigator.clipboard.writeText('asm022lb@aou.edu.lb').then(() => {
+      alert('Email address copied to clipboard!');
+    });
+  }
+
+  function copyPhoneNumber() {
+    navigator.clipboard.writeText('+96171679208').then(() => {
+      alert('Phone number copied to clipboard!');
+    });
+  }
+</script>
