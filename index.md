@@ -29,7 +29,8 @@ I have one year left until graduation, and I’m especially interested in deep l
 
 ## Certifications
 
-For a complete list of my certifications, please visit my [Coursera profile](https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18).
+For a complete list of my certifications, please visit my  
+[Coursera profile](https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18).
 
 ---
 
@@ -42,17 +43,26 @@ My full academic transcript will be available [here](/assets/transcript.pdf) soo
 
 ## Projects
 
-Currently developing practical AI projects to apply my learning and build hands-on experience.
+Currently developing practical AI projects to apply my learning and build hands-on experience. Stay tuned!
 
-- 📊 [Municipal Elections Data Analysis (Google Colab)](https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_):  
-  An in-depth data exploration and visualization project analyzing voting results per candidate and room in a local election.
+### Municipality Elections Data Science Project
 
-  ![Election Statistics Visualization](/assets/stats.jpg){: style="max-width: 600px; display: block; margin: 10px auto;"}
+![Election Statistics](/assets/stats.jpg)
+
+You can also explore the full data analysis in this  
+[Colab Notebook](https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_?usp=sharing).
 
 ---
 
 ## Contact Me
 
-- Email: <a href="mailto:asm022lb@aou.edu.lb" style="text-decoration:none; color:inherit;">asm022lb@aou.edu.lb</a>
-
+- Email: <a href="mailto:asm022lb@aou.edu.lb" style="text-decoration:none; color:inherit;">asm022lb@aou.edu.lb</a>  
 - Phone: <a href="tel:+96171679208" style="text-decoration:none; color:inherit;">+961 71 679 208</a>
+
+<script>
+  // Make all links open in a new tab for better user experience
+  document.querySelectorAll('a').forEach(link => {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener');
+  });
+</script>
