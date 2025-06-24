@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Andre Joe Mhawej Portfolio
 ---
 
 <div style="text-align: center; margin-top: 30px;">
