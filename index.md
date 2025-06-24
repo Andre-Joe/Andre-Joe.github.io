@@ -6,7 +6,7 @@ title: Andre Joe Mhawej Portfolio
 <div style="text-align: center; margin-top: 30px;">
   <a href="/">
     <img src="/assets/me.jpg" alt="Logo"
-       style="height:120px; width:120px; border-radius:50%; object-fit:cover; box-shadow: 0 0 8px rgba(0,0,0,0.3);" />
+         style="height:120px; width:120px; border-radius:50%; object-fit:cover; box-shadow: 0 0 8px rgba(0,0,0,0.3);" />
   </a>
 </div>
 
@@ -47,11 +47,12 @@ Currently developing practical AI projects to apply my learning and build hands-
 - 📊 [Municipal Elections Data Analysis (Google Colab)](https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_):  
   An in-depth data exploration and visualization project analyzing voting results per candidate and room in a local election.
 
-Stay tuned for more!
+  ![Election Statistics Visualization](/assets/stats.jpg){: style="max-width: 600px; display: block; margin: 10px auto;"}
 
 ---
 
 ## Contact Me
 
-- Email: <a href="mailto:asm022lb@aou.edu.lb" style="text-decoration:none; color:inherit;">asm022lb@aou.edu.lb</a>  
+- Email: <a href="mailto:asm022lb@aou.edu.lb" style="text-decoration:none; color:inherit;">asm022lb@aou.edu.lb</a>
+
 - Phone: <a href="tel:+96171679208" style="text-decoration:none; color:inherit;">+961 71 679 208</a>
