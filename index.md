@@ -6,7 +6,7 @@ title: Andre Joe Mhawej Portfolio
 <div style="text-align: center; margin-top: 30px;">
   <a href="/">
     <img src="/assets/me.jpg" alt="Logo"
-         style="height:120px; width:120px; border-radius:50%; object-fit:cover; box-shadow: 0 0 8px rgba(0,0,0,0.3);" />
+       style="height:120px; width:120px; border-radius:50%; object-fit:cover; box-shadow: 0 0 8px rgba(0,0,0,0.3);" />
   </a>
 </div>
 
@@ -42,26 +42,16 @@ My full academic transcript will be available [here](/assets/transcript.pdf) soo
 
 ## Projects
 
-Currently developing practical AI projects to apply my learning and build hands-on experience. Stay tuned!
+Currently developing practical AI projects to apply my learning and build hands-on experience.
+
+- 📊 [Municipal Elections Data Analysis (Google Colab)](https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_):  
+  An in-depth data exploration and visualization project analyzing voting results per candidate and room in a local election.
+
+Stay tuned for more!
 
 ---
 
 ## Contact Me
 
-- Email: <a href="mailto:asm022lb@aou.edu.lb" style="text-decoration:none; color:inherit;">asm022lb@aou.edu.lb</a>
-
-- Phone: <a href="tel:+96171679208" style="text-decoration:none; color:inherit;">Call: +961 71 679 208</a>
-
-<script>
-  function copyEmail() {
-    navigator.clipboard.writeText('asm022lb@aou.edu.lb').then(() => {
-      alert('Email address copied to clipboard!');
-    });
-  }
-
-  function copyPhoneNumber() {
-    navigator.clipboard.writeText('+96171679208').then(() => {
-      alert('Phone number copied to clipboard!');
-    });
-  }
-</script>
+- Email: <a href="mailto:asm022lb@aou.edu.lb" style="text-decoration:none; color:inherit;">asm022lb@aou.edu.lb</a>  
+- Phone: <a href="tel:+96171679208" style="text-decoration:none; color:inherit;">+961 71 679 208</a>
