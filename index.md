@@ -49,10 +49,8 @@ Currently developing practical AI projects to apply my learning and build hands-
 ## Contact Me
 
 - Email: <a href="mailto:asm022lb@aou.edu.lb" style="text-decoration:none; color:inherit;">asm022lb@aou.edu.lb</a>
-  <button onclick="copyEmail()" style="margin-left:10px; cursor:pointer;">Copy</button>
 
 - Phone: <a href="tel:+96171679208" style="text-decoration:none; color:inherit;">Call: +961 71 679 208</a>
-  <button onclick="copyPhoneNumber()" style="margin-left:10px; cursor:pointer;">Copy</button>
 
 <script>
   function copyEmail() {
