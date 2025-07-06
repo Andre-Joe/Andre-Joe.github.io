@@ -11,7 +11,7 @@ title: Andre Joe Mhawej Portfolio
 </div>
 
 <h1 style="text-align: center; margin-top: 20px;">
-  Future AI Engineer | Deep Learning & Reinforcement Learning Enthusiast
+  Future AI Engineer | Deep Learning & Computer Vision Enthusiast
 </h1>
 
 <p style="text-align: center;">
@@ -23,7 +23,7 @@ title: Andre Joe Mhawej Portfolio
 ## About Me
 
 I'm Andre-Joe, a university student currently pursuing a degree in Artificial Intelligence at Arab Open University.  
-I have one year left until graduation, and I’m especially interested in deep learning and reinforcement learning.
+I have one year left until graduation, and I’m especially interested in deep learning and computer vision.
 
 ---
 
