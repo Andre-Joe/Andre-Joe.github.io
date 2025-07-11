@@ -37,7 +37,7 @@ For a complete list of my certifications, please visit my
 ## Academic Transcript
 
 I currently hold a GPA of **3.92/4.0** at Arab Open University.  
-My full academic transcript will be available [here](/assets/transcript.pdf) soon.
+My full academic transcript is available [here](/assets/transcript.pdf).
 
 ---
 
