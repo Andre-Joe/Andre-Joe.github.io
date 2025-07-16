@@ -9,7 +9,7 @@ Welcome to my GitHub repository for my personal portfolio website.
 
 ## About
 
-I am a university student specializing in Artificial Intelligence, focusing on deep learning and reinforcement learning. This site showcases my certifications, academic achievements, and projects.
+I am a university student specializing in Artificial Intelligence, focusing on deep learning and computer vision. This site showcases my certifications, academic achievements, and projects.
 
 ---
 
