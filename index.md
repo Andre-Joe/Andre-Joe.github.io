@@ -54,6 +54,13 @@ You can also explore the full data analysis in this
 
 ---
 
+### Customer Churn Machine Learning Project
+
+You can explore the model before and after the GridSearchCV in this  
+[Colab Notebook](https://colab.research.google.com/drive/1DZbKLW_lr_extvUqsPHrAvZjkwLzxo83?usp=sharing).
+
+---
+
 ## Contact Me
 
 - Email: <a href="mailto:asm022lb@aou.edu.lb" style="text-decoration:none; color:inherit;">asm022lb@aou.edu.lb</a>  
