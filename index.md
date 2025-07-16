@@ -30,7 +30,10 @@ I have one year left until graduation, and I’m especially interested in deep l
 ## Certifications
 
 For a complete list of my certifications, please visit my  
-[Coursera profile](https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18).
+[Coursera profile](https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18).  
+
+You can also view my  
+[freeCodeCamp Machine Learning Certification](https://freecodecamp.org/certification/Andre-Joe/machine-learning-with-python-v7).
 
 ---
 
@@ -45,6 +48,14 @@ My full academic transcript is available [here](/assets/transcript.pdf).
 
 Currently developing practical AI projects to apply my learning and build hands-on experience. Stay tuned!
 
+### Cat-Dog CNN Classifier Project
+
+A convolutional neural network built to classify images of cats and dogs.  
+This project was completed as part of my **freeCodeCamp machine learning with python certification**.  
+[Colab Notebook](https://colab.research.google.com/drive/1OQMpxaVBw8XNd-6eqcNwOxnmNrZa9W2J?usp=sharing)
+
+---
+
 ### Municipality Elections Data Science Project
 
 ![Election Statistics](/assets/stats.jpg)
@@ -56,7 +67,7 @@ You can also explore the full data analysis in this
 
 ### Customer Churn Machine Learning Project
 
-You can explore the model before and after the GridSearchCV in this  
+You can explore the full model and analysis in this  
 [Colab Notebook](https://colab.research.google.com/drive/1DZbKLW_lr_extvUqsPHrAvZjkwLzxo83?usp=sharing).
 
 ---
