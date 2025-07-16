@@ -48,8 +48,9 @@ My full academic transcript is available [here](/assets/transcript.pdf).
 
 ### Cat-Dog CNN Classifier Project
 
-A convolutional neural network built to classify images of cats and dogs.  
-This project was completed as part of my **freeCodeCamp machine learning with python certification**.
+A convolutional neural network built to classify images of cats and dogs.
+The passing accuracy for this task was 63%, and my model achieved 70%.
+This project was completed as part of my freeCodeCamp machine learning with python certification.
 
 <div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 15px;">
   <img src="/assets/model.png" alt="Model Architecture" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
@@ -63,10 +64,10 @@ This project was completed as part of my **freeCodeCamp machine learning with py
 ### Municipality Elections Data Science Project
 
 Analyzed municipality election results to uncover voting patterns and trends using data visualization and statistical techniques.
+Disclaimer: The election data analyzed is based on pictures of final results sheets. The analysis is for educational purposes only.
 
 <img src="/assets/stats.jpg" alt="Election Statistics" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
-
-You can also explore the full data analysis in this  
+  
 [Colab Notebook](https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_?usp=sharing).
 
 ---
@@ -75,7 +76,6 @@ You can also explore the full data analysis in this
 
 Built a baseline churn prediction model, then improved its performance through hyperparameter tuning with GridSearchCV.
 
-You can explore the full model and analysis in this  
 [Colab Notebook](https://colab.research.google.com/drive/1DZbKLW_lr_extvUqsPHrAvZjkwLzxo83?usp=sharing).
 
 <img src="/assets/comparison.png" alt="Churn Model Comparison" style="width: 60%; border-radius: 8px; margin-top: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
