@@ -64,6 +64,8 @@ This project was completed as part of my **freeCodeCamp machine learning with py
 
 ### Municipality Elections Data Science Project
 
+Analyzed municipality election results to uncover voting patterns and trends using data visualization and statistical techniques.
+
 ![Election Statistics](/assets/stats.jpg)
 
 You can also explore the full data analysis in this  
@@ -72,6 +74,8 @@ You can also explore the full data analysis in this
 ---
 
 ### Customer Churn Machine Learning Project
+
+Built a baseline churn prediction model, then improved its performance through hyperparameter tuning with GridSearchCV.
 
 You can explore the full model and analysis in this  
 [Colab Notebook](https://colab.research.google.com/drive/1DZbKLW_lr_extvUqsPHrAvZjkwLzxo83?usp=sharing).
