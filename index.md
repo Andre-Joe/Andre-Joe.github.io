@@ -51,7 +51,13 @@ Currently developing practical AI projects to apply my learning and build hands-
 ### Cat-Dog CNN Classifier Project
 
 A convolutional neural network built to classify images of cats and dogs.  
-This project was completed as part of my **freeCodeCamp machine learning with python certification**.  
+This project was completed as part of my **freeCodeCamp machine learning with python certification**.
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 15px;">
+  <img src="/assets/model.png" alt="Model Architecture" style="width: 45%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
+  <img src="/assets/accuracy.png" alt="Model Accuracy" style="width: 45%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
+</div>
+
 [Colab Notebook](https://colab.research.google.com/drive/1OQMpxaVBw8XNd-6eqcNwOxnmNrZa9W2J?usp=sharing)
 
 ---
@@ -69,6 +75,8 @@ You can also explore the full data analysis in this
 
 You can explore the full model and analysis in this  
 [Colab Notebook](https://colab.research.google.com/drive/1DZbKLW_lr_extvUqsPHrAvZjkwLzxo83?usp=sharing).
+
+<img src="/assets/comparison.png" alt="Churn Model Comparison" style="width: 60%; border-radius: 8px; margin-top: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 
 ---
 
