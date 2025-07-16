@@ -64,7 +64,7 @@ This project was completed as part of my **freeCodeCamp machine learning with py
 
 Analyzed municipality election results to uncover voting patterns and trends using data visualization and statistical techniques.
 
-![Election Statistics](/assets/stats.jpg)
+<img src="/assets/stats.jpg" alt="Election Statistics" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 
 You can also explore the full data analysis in this  
 [Colab Notebook](https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_?usp=sharing).
@@ -82,14 +82,12 @@ You can explore the full model and analysis in this
 
 ---
 
-
 ## Contact Me
 
 - Email: <a href="mailto:asm022lb@aou.edu.lb" style="text-decoration:none; color:inherit;">asm022lb@aou.edu.lb</a>  
 - Phone: <a href="tel:+96171679208" style="text-decoration:none; color:inherit;">+961 71 679 208</a>
 
 <script>
-  // Make all links open in a new tab for better user experience
   document.querySelectorAll('a').forEach(link => {
     link.setAttribute('target', '_blank');
     link.setAttribute('rel', 'noopener');
