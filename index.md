@@ -76,9 +76,9 @@ Disclaimer: The election data analyzed is based on pictures of final results she
 
 Built a baseline churn prediction model, then improved its performance through hyperparameter tuning with GridSearchCV.
 
-[Colab Notebook](https://colab.research.google.com/drive/1DZbKLW_lr_extvUqsPHrAvZjkwLzxo83?usp=sharing).
-
 <img src="/assets/comparison.png" alt="Churn Model Comparison" style="width: 60%; border-radius: 8px; margin-top: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
+
+[Colab Notebook](https://colab.research.google.com/drive/1DZbKLW_lr_extvUqsPHrAvZjkwLzxo83?usp=sharing).
 
 ---
 
