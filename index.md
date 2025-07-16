@@ -29,7 +29,7 @@ I have one year left until graduation, and I’m especially interested in deep l
 
 ## Certifications
 
-For a complete list of my certifications, please visit my  
+For a complete list of my Coursera certifications, please visit my  
 [Coursera profile](https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18).  
 
 You can also view my  
