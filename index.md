@@ -51,7 +51,7 @@ My full academic transcript is available [here](/assets/transcript.pdf).
 A convolutional neural network built to classify images of cats and dogs.  
 This project was completed as part of my **freeCodeCamp machine learning with python certification**.
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 15px; margin-bottom: 15px;">
+<div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 15px;">
   <img src="/assets/model.png" alt="Model Architecture" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
   <img src="/assets/accuracy.png" alt="Model Accuracy" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 </div>
@@ -81,6 +81,7 @@ You can explore the full model and analysis in this
 <img src="/assets/comparison.png" alt="Churn Model Comparison" style="width: 60%; border-radius: 8px; margin-top: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 
 ---
+
 
 ## Contact Me
 
