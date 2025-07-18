@@ -91,7 +91,7 @@ onclick="trackClick('Churn Colab')">Colab Notebook</a>
 ## Contact Me
 
 - Email: <a href="mailto:asm022lb@aou.edu.lb" style="text-decoration:none; color:inherit;"
-onclick="trackClick('Email Click')">asm022lb@aou.edu.lb</a>  
+onclick="trackClick('Email Click')">amhawej38@gmail.com</a>  
 - Phone: <a href="tel:+96171679208" style="text-decoration:none; color:inherit;"
 onclick="trackClick('Phone Click')">+961 71 679 208</a>
 
