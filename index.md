@@ -29,12 +29,10 @@ I have one year left until graduation, and I’m especially interested in deep l
 
 ## Certifications
 
-For a complete list of my Coursera certifications, please visit my  
-<a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener"
+For a complete list of my Coursera certifications, please visit my <a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener"
 onclick="trackClick('Coursera Profile')">Coursera profile</a>.  
 
-You can also view my  
-<a href="https://freecodecamp.org/certification/Andre-Joe/machine-learning-with-python-v7" target="_blank" rel="noopener"
+You can also view my <a href="https://freecodecamp.org/certification/Andre-Joe/machine-learning-with-python-v7" target="_blank" rel="noopener"
 onclick="trackClick('FreeCodeCamp Certificate')">freeCodeCamp Machine Learning Certification</a>.
 
 ---
