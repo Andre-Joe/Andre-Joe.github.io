@@ -42,8 +42,7 @@ onclick="trackClick('FreeCodeCamp Certificate')">freeCodeCamp Machine Learning C
 ## Academic Transcript
 
 I currently hold a GPA of **3.92/4.0** at Arab Open University.  
-My full academic transcript is available  
-<a href="/assets/transcript.pdf" onclick="trackClick('Transcript Click')">here</a>.
+My full academic transcript is available <a href="/assets/transcript.pdf" onclick="trackClick('Transcript Click')">here</a>.
 
 ---
 
