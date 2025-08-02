@@ -4,7 +4,7 @@ title: Andre Joe Mhawej Portfolio
 ---
 
 <div style="text-align: center; margin-top: 30px;">
-  <a href="/" onclick="trackClick('Logo Click')">
+  <a href="/">
     <img src="/assets/me.jpg" alt="Logo"
          style="height:120px; width:120px; border-radius:50%; object-fit:cover; box-shadow: 0 0 8px rgba(0,0,0,0.3);" />
   </a>
@@ -29,18 +29,19 @@ I have one year left until graduation, and I’m especially interested in deep l
 
 ## Certifications
 
-For a complete list of my Coursera certifications, please visit my <a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener"
-onclick="trackClick('Coursera Profile')">Coursera profile</a>.  
+For a complete list of my Coursera certifications, please visit my  
+<a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener">Coursera profile</a>.
 
-You can also view my <a href="https://freecodecamp.org/certification/Andre-Joe/machine-learning-with-python-v7" target="_blank" rel="noopener"
-onclick="trackClick('FreeCodeCamp Certificate')">freeCodeCamp Machine Learning Certification</a>.
+You can also view my  
+<a href="https://freecodecamp.org/certification/Andre-Joe/machine-learning-with-python-v7" target="_blank" rel="noopener">freeCodeCamp Machine Learning Certification</a>.
 
 ---
 
 ## Academic Transcript
 
 I currently hold a GPA of **3.92/4.0** at Arab Open University.  
-My full academic transcript is available <a href="/assets/transcript.pdf" onclick="trackClick('Transcript Click')">here</a>.
+My full academic transcript is available  
+<a href="/assets/transcript.pdf">here</a>.
 
 ---
 
@@ -57,8 +58,7 @@ This project was completed as part of my freeCodeCamp machine learning with pyth
   <img src="/assets/accuracy.png" alt="Model Accuracy" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 </div>
 
-<a href="https://colab.research.google.com/drive/1OQMpxaVBw8XNd-6eqcNwOxnmNrZa9W2J?usp=sharing" target="_blank" rel="noopener"
-onclick="trackClick('Cat-Dog Colab')">Colab Notebook</a>
+<a href="https://colab.research.google.com/drive/1OQMpxaVBw8XNd-6eqcNwOxnmNrZa9W2J?usp=sharing" target="_blank" rel="noopener">Colab Notebook</a>
 
 ---
 
@@ -68,9 +68,8 @@ Analyzed municipality election results to uncover voting patterns and trends usi
 Disclaimer: The election data analyzed is based on pictures of final results sheets. The analysis is for educational purposes only.
 
 <img src="/assets/stats.jpg" alt="Election Statistics" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
-  
-<a href="https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_?usp=sharing" target="_blank" rel="noopener"
-onclick="trackClick('Elections Colab')">Colab Notebook</a>
+
+<a href="https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_?usp=sharing" target="_blank" rel="noopener">Colab Notebook</a>
 
 ---
 
@@ -80,32 +79,11 @@ Built a baseline churn prediction model, then improved its performance through h
 
 <img src="/assets/comparison.png" alt="Churn Model Comparison" style="width: 60%; border-radius: 8px; margin-top: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 
-<a href="https://colab.research.google.com/drive/1DZbKLW_lr_extvUqsPHrAvZjkwLzxo83?usp=sharing" target="_blank" rel="noopener"
-onclick="trackClick('Churn Colab')">Colab Notebook</a>
+<a href="https://colab.research.google.com/drive/1DZbKLW_lr_extvUqsPHrAvZjkwLzxo83?usp=sharing" target="_blank" rel="noopener">Colab Notebook</a>
 
 ---
 
 ## Contact Me
 
-- Email: <a href="mailto:amhawej38@gmail.com" style="text-decoration:none; color:inherit;"
-onclick="trackClick('Email Click')">amhawej38@gmail.com</a>  
-- Phone: <a href="tel:+96171679208" style="text-decoration:none; color:inherit;"
-onclick="trackClick('Phone Click')">+961 71 679 208</a>
-
----
-
-<script>
-  function trackClick(label) {
-    if (typeof gtag === 'function') {
-      gtag('event', 'click', {
-        event_category: 'link',
-        event_label: label
-      });
-    }
-  }
-
-  document.querySelectorAll('a').forEach(link => {
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener');
-  });
-</script>
+- Email: <a href="mailto:amhawej38@gmail.com" style="text-decoration:none; color:inherit;">amhawej38@gmail.com</a>  
+- Phone: <a href="tel:+96171679208" style="text-decoration:none; color:inherit;">+961 71 679 208</a>
