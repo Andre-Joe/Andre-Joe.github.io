@@ -69,6 +69,8 @@ This project was completed as part of my freeCodeCamp machine learning with pyth
 
 <a href="https://colab.research.google.com/drive/1OQMpxaVBw8XNd-6eqcNwOxnmNrZa9W2J?usp=sharing" target="_blank" rel="noopener">Colab Notebook</a>
 
+<br><br>
+
 ---
 
 ### Municipality Elections Data Science Project
