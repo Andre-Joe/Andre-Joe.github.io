@@ -19,6 +19,7 @@ title: Andre Joe Mhawej Portfolio
 </p>
 
 ---
+
 <br><br>
 
 ## Certifications & Transcript
@@ -30,7 +31,9 @@ You can also view my  <a href="https://freecodecamp.org/certification/Andre-Joe/
 My full academic transcript is available  <a href="/assets/transcript.pdf">here</a>.
 
 <br><br>
+
 ---
+
 <br><br>
 
 ## Projects
@@ -46,7 +49,9 @@ The dataset is reliable and up-to-date, reflecting the current market.
 </div>
 
 <br><br>
+
 [💰 Predict Your Home Price Now!](https://andre-joe.github.io/House-Preview/)
+
 <br><br>
 
 ---
@@ -76,9 +81,11 @@ Disclaimer: The election data analyzed is based on pictures of final results she
 <a href="https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_?usp=sharing" target="_blank" rel="noopener">Colab Notebook</a>
 
 <br><br>
+
 ---
 
 <br><br>
+
 ## Contact Me
 
 - Email: <a href="mailto:amhawej38@gmail.com" style="text-decoration:none; color:inherit;">amhawej38@gmail.com</a>  
