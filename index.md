@@ -55,7 +55,7 @@ The dataset is reliable and up-to-date, reflecting the current market.
 </div>
 
 <br><br>
-[💰 Predict Your Home Price Now!](https://house-price-prediction-leb.streamlit.app/)  
+[💰 Predict Your Home Price Now!](https://andre-joe.github.io/House-Preview/)
 <br><br>
 
 ---
