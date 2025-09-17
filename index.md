@@ -44,6 +44,28 @@ My full academic transcript is available  <a href="/assets/transcript.pdf">here<
 
 ## Projects
 
+### House Price Predictor 🏠
+
+<p style="text-align: center;">
+  Interactively predict house prices in Lebanon. Adjust parameters and see results instantly.
+</p>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 80%;">
+  <iframe src="https://house-price-prediction-leb.streamlit.app/"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"
+          allowfullscreen>
+  </iframe>
+</div>
+
+<p style="text-align: center; margin-top: 10px;">
+  <a href="https://house-price-prediction-leb.streamlit.app/" target="_blank" rel="noopener" 
+     style="text-decoration: none; background-color: #007ACC; color: white; padding: 8px 16px; border-radius: 6px; font-weight: bold;">
+    Open in New Tab
+  </a>
+</p>
+
+---
+
 ### Cat-Dog CNN Classifier Project
 
 A convolutional neural network built to classify images of cats and dogs.  
@@ -67,16 +89,6 @@ Disclaimer: The election data analyzed is based on pictures of final results she
 <img src="/assets/stats.jpg" alt="Election Statistics" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 
 <a href="https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_?usp=sharing" target="_blank" rel="noopener">Colab Notebook</a>
-
----
-
-### Customer Churn Machine Learning Project
-
-Built a baseline churn prediction model, then improved its performance through hyperparameter tuning with GridSearchCV.
-
-<img src="/assets/comparison.png" alt="Churn Model Comparison" style="width: 60%; border-radius: 8px; margin-top: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
-
-<a href="https://colab.research.google.com/drive/1DZbKLW_lr_extvUqsPHrAvZjkwLzxo83?usp=sharing" target="_blank" rel="noopener">Colab Notebook</a>
 
 ---
 
