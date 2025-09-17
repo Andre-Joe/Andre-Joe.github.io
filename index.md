@@ -20,24 +20,12 @@ title: Andre Joe Mhawej Portfolio
 
 ---
 
-## About Me
-
-I'm Andre-Joe, a university student currently pursuing a degree in Artificial Intelligence at Arab Open University.  
-I have one year left until graduation, and I’m especially interested in deep learning and computer vision.
-
----
-
-## Certifications
+## Certifications & Transcript
 
 For a complete list of my Coursera certifications, please visit my  <a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener">Coursera profile</a>.
 
 You can also view my  <a href="https://freecodecamp.org/certification/Andre-Joe/machine-learning-with-python-v7" target="_blank" rel="noopener">freeCodeCamp Machine Learning Certification</a>.
 
----
-
-## Academic Transcript
-
-I currently hold a GPA of **3.92/4.0** at Arab Open University.  
 My full academic transcript is available  <a href="/assets/transcript.pdf">here</a>.
 
 ---
