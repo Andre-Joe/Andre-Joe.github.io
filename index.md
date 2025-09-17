@@ -86,12 +86,6 @@ Disclaimer: The election data analyzed is based on pictures of final results she
 
 ---
 
-### Cat-Dog CNN Classifier Project
-
-Built a convolutional neural network to classify images of cats and dogs.  
-Achieved **70% accuracy**, surpassing the project’s passing threshold.
-
----
 
 ## Contact Me
 
