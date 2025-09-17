@@ -27,7 +27,7 @@ For a complete list of my Coursera certifications, visit my  <a href="https://ww
 You can also view my  <a href="https://freecodecamp.org/certification/Andre-Joe/machine-learning-with-python-v7" target="_blank" rel="noopener">freeCodeCamp Machine Learning Certification</a>.
 
 My full academic transcript is available  <a href="/assets/transcript.pdf">here</a>.
-
+<br><br>
 ---
 <br><br>
 ## Projects
@@ -71,7 +71,7 @@ Disclaimer: The election data analyzed is based on pictures of final results she
 <img src="/assets/stats.jpg" alt="Election Statistics" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 
 <a href="https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_?usp=sharing" target="_blank" rel="noopener">Colab Notebook</a>
-
+<br><br>
 ---
 
 <br><br>
