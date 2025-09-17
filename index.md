@@ -19,17 +19,17 @@ title: Andre Joe Mhawej Portfolio
 </p>
 
 ---
-
+<br><br>
 ## Certifications & Transcript
 
-For a complete list of my Coursera certifications, please visit my  <a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener">Coursera profile</a>.
+For a complete list of my Coursera certifications, visit my  <a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener">Coursera profile</a>.
 
 You can also view my  <a href="https://freecodecamp.org/certification/Andre-Joe/machine-learning-with-python-v7" target="_blank" rel="noopener">freeCodeCamp Machine Learning Certification</a>.
 
 My full academic transcript is available  <a href="/assets/transcript.pdf">here</a>.
 
 ---
-
+<br><br>
 ## Projects
 
 ### Lebanon House Price Predictor 🏠
@@ -74,7 +74,7 @@ Disclaimer: The election data analyzed is based on pictures of final results she
 
 ---
 
-
+<br><br>
 ## Contact Me
 
 - Email: <a href="mailto:amhawej38@gmail.com" style="text-decoration:none; color:inherit;">amhawej38@gmail.com</a>  
