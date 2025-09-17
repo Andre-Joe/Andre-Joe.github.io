@@ -51,7 +51,7 @@ The dataset is reliable and up-to-date, reflecting the current market.
 
 <div style="display: flex; flex-direction: column; gap: 0; margin-bottom: 15px; align-items: center;">
   <img src="/assets/HouseTop.png" alt="House Price Predictor Top" style="width: 100%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
-  <img src="/assets/HouseBotom.png" alt="House Price Predictor Bottom" style="width: 100%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
+  <img src="/assets/HouseBottom.png" alt="House Price Predictor Bottom" style="width: 100%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 </div>
 
 [View Project on Streamlit](https://house-price-prediction-leb.streamlit.app/)  
