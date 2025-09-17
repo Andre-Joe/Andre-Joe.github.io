@@ -38,7 +38,7 @@ My full academic transcript is available  <a href="/assets/transcript.pdf">here<
 
 ## Projects
 
-### Lebanon House Price Predictor 🏠
+### Lebanon House Price Predictor
 
 Built solely by me, from data collection to model refining, this project predicts house prices in Lebanon.  
 The dataset is reliable and up-to-date, reflecting the current market.
