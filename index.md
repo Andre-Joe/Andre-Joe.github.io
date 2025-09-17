@@ -54,7 +54,7 @@ The dataset is reliable and up-to-date, reflecting the current market.
   <img src="/assets/HouseBottom.png" alt="House Price Predictor Bottom" style="width: 100%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 </div>
 
-[View Project on Streamlit](https://house-price-prediction-leb.streamlit.app/)  
+[💰 Predict Your Home Price Now!](https://house-price-prediction-leb.streamlit.app/)  
 
 ---
 
