@@ -49,8 +49,8 @@ It can help you review materials, answer questions, and explore concepts interac
 
 Feel free to try some prompts like:  
 - "what is software engineering?"
-- "What is a for loop in Python?"  
-- "Simply, what is sentiment analysis?"  
+- "Simply, what is sentiment analysis?" 
+- "What is a for loop in Python?" 
 - "What is LSTM in short?"
 
 <div style="display: flex; flex-direction: column; gap: 0; margin-bottom: 15px; align-items: center;">
