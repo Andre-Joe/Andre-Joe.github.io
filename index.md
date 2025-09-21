@@ -48,6 +48,7 @@ A personal AI assistant trained on my AI courses using embeddings and Retrieval-
 It can help you review materials, answer questions, and explore concepts interactively.  
 
 Feel free to try some prompts like:  
+- "what is software engineering?"
 - "What is a for loop in Python?"  
 - "Simply, what is sentiment analysis?"  
 - "What is LSTM in short?"
