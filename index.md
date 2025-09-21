@@ -4,7 +4,7 @@ title: Andre Joe Mhawej Portfolio
 ---
 
 <div style="text-align: center; margin-top: 30px;">
-  <a href="/">
+  <a href="/" target="_blank" rel="noopener">
     <img src="/assets/me.jpg" alt="Logo"
          style="height:120px; width:120px; border-radius:50%; object-fit:cover; box-shadow: 0 0 8px rgba(0,0,0,0.3);" />
   </a>
@@ -28,7 +28,7 @@ For a complete list of my Coursera certifications, visit my  <a href="https://ww
 
 You can also view my  <a href="https://freecodecamp.org/certification/Andre-Joe/machine-learning-with-python-v7" target="_blank" rel="noopener">freeCodeCamp Machine Learning Certification</a>.
 
-My full academic transcript is available  <a href="/assets/transcript.pdf">here</a>.
+My full academic transcript is available  <a href="/assets/transcript.pdf" target="_blank" rel="noopener">here</a>.
 
 <br><br>
 
@@ -52,7 +52,7 @@ Feel free to try some prompts like:
   <img src="/assets/chatbot-web.png" alt="University Assistant Chatbot" style="width: 100%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 </div>
 
-[💬 Try the Chatbot Now!](https://andre-joe.github.io/University-Preview/)
+<a href="https://andre-joe.github.io/University-Preview/" target="_blank" rel="noopener">💬 Try the Chatbot Now!</a>
 
 <br><br>
 
@@ -68,9 +68,7 @@ The dataset is reliable and up-to-date, reflecting the current market.
   <img src="/assets/HouseBottom.png" alt="House Price Predictor Bottom" style="width: 100%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 </div>
 
-<br><br>
-
-[💰 Predict Your Home Price Now!](https://andre-joe.github.io/House-Preview/)
+<a href="https://andre-joe.github.io/House-Preview/" target="_blank" rel="noopener">💰 Predict Your Home Price Now!</a>
 
 <br><br>
 
@@ -93,5 +91,5 @@ Disclaimer: The election data analyzed is based on pictures of final results she
 
 ## Contact Me
 
-- Email: <a href="mailto:amhawej38@gmail.com" style="text-decoration:none; color:inherit;">amhawej38@gmail.com</a>  
-- Phone: <a href="tel:+96171679208" style="text-decoration:none; color:inherit;">+961 71 679 208</a>
+- Email: <a href="mailto:amhawej38@gmail.com" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">amhawej38@gmail.com</a>  
+- Phone: <a href="tel:+96171679208" target="_blank" rel="noopener" style="text-decoration:none; color:inherit;">+961 71 679 208</a>
