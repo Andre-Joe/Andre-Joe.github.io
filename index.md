@@ -38,6 +38,26 @@ My full academic transcript is available  <a href="/assets/transcript.pdf">here<
 
 ## Projects
 
+### University Assistant Chatbot
+
+A personal AI assistant trained on my AI courses using embeddings and Retrieval-Augmented Generation (RAG).  
+It can help you review materials, answer questions, and explore concepts interactively.  
+
+Try these prompts:  
+- "What is a for loop in Python?"  
+- "Simply, what is sentiment analysis?"  
+- "What is LSTM in short?"
+
+<div style="display: flex; flex-direction: column; gap: 0; margin-bottom: 15px; align-items: center;">
+  <img src="/assets/chatbot-web.png" alt="University Assistant Chatbot" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
+</div>
+
+[💬 Try the Chatbot Now!](https://andre-joe.github.io/University-Preview/)
+
+<br><br>
+
+---
+
 ### Lebanon House Price Predictor
 
 Built solely by me, from data collection to model refining, this project predicts house prices in Lebanon.  
@@ -51,23 +71,6 @@ The dataset is reliable and up-to-date, reflecting the current market.
 <br><br>
 
 [💰 Predict Your Home Price Now!](https://andre-joe.github.io/House-Preview/)
-
-<br><br>
-
----
-
-### Cat-Dog CNN Classifier Project
-
-A convolutional neural network built to classify images of cats and dogs.  
-The passing accuracy for this task was 63%, and my model achieved 70%.  
-This project was completed as part of my freeCodeCamp machine learning with python certification.
-
-<div style="display: flex; flex-direction: column; gap: 15px; margin-bottom: 15px;">
-  <img src="/assets/model.png" alt="Model Architecture" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
-  <img src="/assets/accuracy.png" alt="Model Accuracy" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
-</div>
-
-<a href="https://colab.research.google.com/drive/1OQMpxaVBw8XNd-6eqcNwOxnmNrZa9W2J?usp=sharing" target="_blank" rel="noopener">Colab Notebook</a>
 
 <br><br>
 
