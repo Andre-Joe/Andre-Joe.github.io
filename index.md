@@ -29,6 +29,7 @@ For a complete list of my Coursera certifications, visit my  <a href="https://ww
 You can also view my  <a href="https://freecodecamp.org/certification/Andre-Joe/machine-learning-with-python-v7" target="_blank" rel="noopener">freeCodeCamp Machine Learning Certification</a>.
 
 My full academic transcript is available  <a href="/assets/transcript.pdf" target="_blank" rel="noopener">here</a>.
+“Curious about any topic or want more details from my courses? Ask the chatbot in the Projects section below.”
 
 <br><br>
 
