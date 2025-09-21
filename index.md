@@ -11,7 +11,7 @@ title: Andre Joe Mhawej Portfolio
 </div>
 
 <h1 style="text-align: center; margin-top: 20px;">
-  Future AI Engineer | Deep Learning & Computer Vision Enthusiast
+  Future AI Engineer | Machine Learning & Computer Vision Practitioner
 </h1>
 
 <p style="text-align: center;">
@@ -43,13 +43,13 @@ My full academic transcript is available  <a href="/assets/transcript.pdf">here<
 A personal AI assistant trained on my AI courses using embeddings and Retrieval-Augmented Generation (RAG).  
 It can help you review materials, answer questions, and explore concepts interactively.  
 
-Try these prompts:  
+Feel free to try some prompts like:  
 - "What is a for loop in Python?"  
 - "Simply, what is sentiment analysis?"  
 - "What is LSTM in short?"
 
 <div style="display: flex; flex-direction: column; gap: 0; margin-bottom: 15px; align-items: center;">
-  <img src="/assets/chatbot-web.png" alt="University Assistant Chatbot" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
+  <img src="/assets/chatbot-web.png" alt="University Assistant Chatbot" style="width: 100%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 </div>
 
 [💬 Try the Chatbot Now!](https://andre-joe.github.io/University-Preview/)
@@ -81,7 +81,7 @@ The dataset is reliable and up-to-date, reflecting the current market.
 Analyzed municipality election results to uncover voting patterns and trends using data visualization and statistical techniques.  
 Disclaimer: The election data analyzed is based on pictures of final results sheets. The analysis is for educational purposes only.
 
-<img src="/assets/stats.jpg" alt="Election Statistics" style="width: 60%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
+<img src="/assets/stats.jpg" alt="Election Statistics" style="width: 100%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
 
 <a href="https://colab.research.google.com/drive/1zdQZnuQ0uwVVV6xGbUQlaIkhDguMoZm_?usp=sharing" target="_blank" rel="noopener">Colab Notebook</a>
 
