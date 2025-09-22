@@ -26,6 +26,7 @@ title: Andre Joe Mhawej Portfolio
 
 For a complete list of my Coursera certifications, visit my  <a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener">Coursera profile</a>.
 
+<br><br>
 
 My full academic transcript is available <a href="/assets/transcript.pdf" target="_blank" rel="noopener">here</a>.<br>
 <p style="margin-top:5px; font-style:italic;">
@@ -64,8 +65,8 @@ Feel free to try some prompts like:
 
 ### Lebanon House Price Predictor
 
-Built solely by me, from data collection to model refining, this project predicts house prices in Lebanon.  
-The dataset is reliable and up-to-date, reflecting the current market.
+From data collection to model refining, this project predicts house prices in Lebanon.  
+The dataset is collected on Sep 2025, reflecting the market.
 
 <div style="display: flex; flex-direction: column; gap: 0; margin-bottom: 15px; align-items: center;">
   <img src="/assets/HouseTop.png" alt="House Price Predictor Top" style="width: 100%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
