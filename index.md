@@ -26,7 +26,6 @@ title: Andre Joe Mhawej Portfolio
 
 For a complete list of my Coursera certifications, visit my  <a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener">Coursera profile</a>.
 
-You can also view my  <a href="https://freecodecamp.org/certification/Andre-Joe/machine-learning-with-python-v7" target="_blank" rel="noopener">freeCodeCamp Machine Learning Certification</a>.
 
 My full academic transcript is available <a href="/assets/transcript.pdf" target="_blank" rel="noopener">here</a>.<br>
 <p style="margin-top:5px; font-style:italic;">
