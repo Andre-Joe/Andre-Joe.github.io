@@ -48,10 +48,10 @@ A personal AI assistant trained on my AI courses using embeddings and Retrieval-
 It can help you review materials, answer questions, and explore concepts interactively.  
 
 Feel free to try some prompts like:  
-- "what is software engineering?"
-- "Simply, what is sentiment analysis?" 
-- "What is a for loop in Python?" 
-- "What is LSTM in short?"
+- what is software engineering briefly?
+- What is LSTM?
+- Simply, what is sentiment analysis? 
+- What is a while loop in Python? 
 
 <div style="display: flex; flex-direction: column; gap: 0; margin-bottom: 15px; align-items: center;">
   <img src="/assets/chatbot-web.png" alt="University Assistant Chatbot" style="width: 100%; border-radius: 8px; box-shadow: 0 0 5px rgba(0,0,0,0.2);" />
