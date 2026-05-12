@@ -85,7 +85,7 @@ For a complete list of my Coursera certifications, visit my  <a href="https://ww
 
 My full academic transcript is available <a href="/assets/transcript.pdf" target="_blank" rel="noopener">here</a>.<br>
 <p style="margin-top:5px; font-style:italic;">
-Curious about any topic or want more details from my courses? Ask the chatbot in the Projects section below.
+Curious about any topic or want more details from my courses? Ask the chatbot in the Projects section.
 </p>
 
 
