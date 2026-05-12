@@ -76,8 +76,6 @@ Disclaimer: The election data analyzed is based on pictures of final results she
 
 ---
 
-<br><br>
-
 
 ## Certifications & Transcript
 
