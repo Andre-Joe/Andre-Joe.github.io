@@ -33,7 +33,7 @@ It can help you review materials, answer questions, and explore concepts interac
 
 Feel free to try some prompts like:  
 - what is software engineering briefly?
-- What is LSTM?
+- Explain what is LSTM.
 - Simply, what is sentiment analysis? 
 - What is a while loop in Python? 
 
