@@ -11,32 +11,16 @@ title: Andre Joe Mhawej Portfolio
 </div>
 
 <h1 style="text-align: center; margin-top: 20px;">
-  Future AI Engineer | Machine Learning & Computer Vision Practitioner
+  Artificial Intelligence & Machine Learning Developer
 </h1>
 
 <p style="text-align: center;">
-  Explore my journey in AI, certifications, and academic excellence.
+  Explore my journey in AI projects, certifications, and academic excellence.
 </p>
 
 ---
 
-<br><br>
 
-## Certifications & Transcript
-
-For a complete list of my Coursera certifications, visit my  <a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener">Coursera profile</a>.
-
-<br><br>
-
-My full academic transcript is available <a href="/assets/transcript.pdf" target="_blank" rel="noopener">here</a>.<br>
-<p style="margin-top:5px; font-style:italic;">
-Curious about any topic or want more details from my courses? Ask the chatbot in the Projects section below.
-</p>
-
-
-<br><br>
-
----
 
 <br><br>
 
@@ -93,6 +77,23 @@ Disclaimer: The election data analyzed is based on pictures of final results she
 ---
 
 <br><br>
+
+
+## Certifications & Transcript
+
+For a complete list of my Coursera certifications, visit my  <a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener">Coursera profile</a>.
+
+<br><br>
+
+My full academic transcript is available <a href="/assets/transcript.pdf" target="_blank" rel="noopener">here</a>.<br>
+<p style="margin-top:5px; font-style:italic;">
+Curious about any topic or want more details from my courses? Ask the chatbot in the Projects section below.
+</p>
+
+
+<br><br>
+
+---
 
 ## Contact Me
 
