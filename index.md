@@ -6,9 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Andre Joe Mhawej — Engineer specializing in Artificial Intelligence and Computer Vision.">
   <meta name="theme-color" content="#08090d">
-
-  <title>Andre Joe Mhawej | AI & Computer Vision</title>
-
+  <title>Andre Joe Mhawej | AI &amp; Computer Vision</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -27,16 +25,9 @@
       --max-width: 1160px;
     }
 
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
-    html {
-      scroll-behavior: smooth;
-      scroll-padding-top: 90px;
-    }
+    html { scroll-behavior: smooth; scroll-padding-top: 90px; }
 
     body {
       background: var(--bg);
@@ -46,17 +37,9 @@
       line-height: 1.6;
     }
 
-    a {
-      color: inherit;
-      text-decoration: none;
-    }
+    a { color: inherit; text-decoration: none; }
 
-    ::selection {
-      background: var(--accent);
-      color: #08090d;
-    }
-
-    /* BACKGROUND */
+    ::selection { background: var(--accent); color: #08090d; }
 
     .background-glow {
       position: fixed;
@@ -91,16 +74,12 @@
       pointer-events: none;
     }
 
-    /* GENERAL */
-
     .container {
       width: min(var(--max-width), calc(100% - 48px));
       margin: 0 auto;
     }
 
-    .section {
-      padding: 115px 0;
-    }
+    .section { padding: 115px 0; }
 
     .section-heading {
       display: flex;
@@ -127,8 +106,6 @@
       background: var(--border);
       margin-left: 15px;
     }
-
-    /* NAVIGATION */
 
     .navbar {
       position: fixed;
@@ -161,9 +138,7 @@
       letter-spacing: -1px;
     }
 
-    .logo span {
-      color: var(--accent);
-    }
+    .logo span { color: var(--accent); }
 
     .nav-links {
       display: flex;
@@ -178,9 +153,7 @@
       transition: 0.25s;
     }
 
-    .nav-links a:hover {
-      color: var(--accent);
-    }
+    .nav-links a:hover { color: var(--accent); }
 
     .nav-contact {
       padding: 10px 17px;
@@ -202,8 +175,6 @@
       font-size: 26px;
       cursor: pointer;
     }
-
-    /* HERO */
 
     .hero {
       min-height: 100vh;
@@ -286,15 +257,9 @@
       animation: blink 0.8s infinite;
     }
 
-    @keyframes blink {
-      50% { opacity: 0; }
-    }
+    @keyframes blink { 50% { opacity: 0; } }
 
-    .hero-buttons {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 14px;
-    }
+    .hero-buttons { display: flex; flex-wrap: wrap; gap: 14px; }
 
     .btn {
       display: inline-flex;
@@ -319,18 +284,13 @@
       box-shadow: 0 8px 30px rgba(165,255,203,0.2);
     }
 
-    .btn-outline {
-      border: 1px solid var(--border);
-      color: var(--text);
-    }
+    .btn-outline { border: 1px solid var(--border); color: var(--text); }
 
     .btn-outline:hover {
       border-color: var(--accent);
       color: var(--accent);
       transform: translateY(-4px);
     }
-
-    /* PROFILE IMAGE */
 
     .profile-area {
       display: flex;
@@ -374,9 +334,7 @@
       animation-duration: 25s;
     }
 
-    @keyframes rotate {
-      to { transform: rotate(360deg); }
-    }
+    @keyframes rotate { to { transform: rotate(360deg); } }
 
     .profile-image {
       width: 76%;
@@ -392,8 +350,6 @@
       0%, 100% { transform: translateY(0); }
       50% { transform: translateY(-12px); }
     }
-
-    /* MARQUEE */
 
     .marquee-wrapper {
       overflow: hidden;
@@ -424,11 +380,7 @@
       margin-left: 65px;
     }
 
-    @keyframes marquee {
-      to { transform: translateX(-50%); }
-    }
-
-    /* PROJECTS */
+    @keyframes marquee { to { transform: translateX(-50%); } }
 
     .projects-intro {
       color: var(--muted);
@@ -437,11 +389,7 @@
       margin-bottom: 42px;
     }
 
-    .projects-grid {
-      display: flex;
-      flex-direction: column;
-      gap: 25px;
-    }
+    .projects-grid { display: flex; flex-direction: column; gap: 25px; }
 
     .project-card {
       display: grid;
@@ -479,9 +427,7 @@
       transition: transform 0.5s ease;
     }
 
-    .project-card:hover .project-image img {
-      transform: scale(1.025);
-    }
+    .project-card:hover .project-image img { transform: scale(1.025); }
 
     .project-content {
       padding: 30px;
@@ -511,12 +457,7 @@
       margin-bottom: 22px;
     }
 
-    .tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-bottom: 25px;
-    }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 25px; }
 
     .tag {
       font-family: var(--mono);
@@ -543,11 +484,7 @@
       transition: 0.2s;
     }
 
-    .project-links a:hover {
-      color: var(--accent);
-    }
-
-    /* SKILLS */
+    .project-links a:hover { color: var(--accent); }
 
     .skills-intro {
       color: var(--muted);
@@ -575,24 +512,15 @@
       transform: translateY(-5px);
     }
 
-    .skill-icon {
-      font-size: 25px;
-      color: var(--accent);
-      margin-bottom: 18px;
-    }
+    .skill-icon { font-size: 25px; color: var(--accent); margin-bottom: 18px; }
 
-    .skill-card h3 {
-      font-size: 17px;
-      margin-bottom: 14px;
-    }
+    .skill-card h3 { font-size: 17px; margin-bottom: 14px; }
 
     .skill-card p {
       font-size: 13px;
       color: var(--muted);
       line-height: 1.9;
     }
-
-    /* CREDENTIALS */
 
     .credentials-grid {
       display: grid;
@@ -621,10 +549,7 @@
       margin-bottom: 15px;
     }
 
-    .credential-card h3 {
-      font-size: 19px;
-      margin-bottom: 10px;
-    }
+    .credential-card h3 { font-size: 19px; margin-bottom: 10px; }
 
     .credential-card p {
       color: var(--muted);
@@ -640,11 +565,7 @@
       padding-bottom: 4px;
     }
 
-    /* CONTACT */
-
-    .contact-section {
-      padding-bottom: 100px;
-    }
+    .contact-section { padding-bottom: 100px; }
 
     .contact-panel {
       position: relative;
@@ -669,11 +590,7 @@
       margin-bottom: 32px;
     }
 
-    .contact-links {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 14px;
-    }
+    .contact-links { display: flex; flex-wrap: wrap; gap: 14px; }
 
     .contact-links a {
       display: inline-flex;
@@ -692,12 +609,7 @@
       transform: translateY(-3px);
     }
 
-    /* FOOTER */
-
-    .footer {
-      border-top: 1px solid var(--border);
-      padding: 28px 0;
-    }
+    .footer { border-top: 1px solid var(--border); padding: 28px 0; }
 
     .footer-inner {
       display: flex;
@@ -709,11 +621,7 @@
       font-size: 11px;
     }
 
-    .back-to-top {
-      color: var(--accent);
-    }
-
-    /* SCROLL ANIMATIONS */
+    .back-to-top { color: var(--accent); }
 
     .reveal {
       opacity: 0;
@@ -721,10 +629,7 @@
       transition: opacity 0.8s ease, transform 0.8s ease;
     }
 
-    .reveal.visible {
-      opacity: 1;
-      transform: translateY(0);
-    }
+    .reveal.visible { opacity: 1; transform: translateY(0); }
 
     .progress-bar {
       position: fixed;
@@ -737,66 +642,23 @@
       box-shadow: 0 0 10px var(--accent);
     }
 
-    /* TABLET */
-
     @media (max-width: 850px) {
-      .hero-content {
-        grid-template-columns: 1fr;
-        gap: 55px;
-      }
-
-      .hero-text {
-        order: 2;
-      }
-
-      .profile-area {
-        order: 1;
-      }
-
-      .profile-orbit {
-        width: 230px;
-      }
-
-      .hero {
-        padding-top: 125px;
-      }
-
-      .hero h1 {
-        letter-spacing: -3px;
-      }
-
-      .project-card {
-        grid-template-columns: 1fr;
-      }
-
-      .project-image {
-        min-height: 220px;
-      }
-
-      .project-image img {
-        max-height: 320px;
-      }
-
-      .skills-grid {
-        grid-template-columns: repeat(2, 1fr);
-      }
+      .hero-content { grid-template-columns: 1fr; gap: 55px; }
+      .hero-text { order: 2; }
+      .profile-area { order: 1; }
+      .profile-orbit { width: 230px; }
+      .hero { padding-top: 125px; }
+      .hero h1 { letter-spacing: -3px; }
+      .project-card { grid-template-columns: 1fr; }
+      .project-image { min-height: 220px; }
+      .project-image img { max-height: 320px; }
+      .skills-grid { grid-template-columns: repeat(2, 1fr); }
     }
 
-    /* MOBILE */
-
     @media (max-width: 650px) {
-      .container,
-      .nav-inner {
-        width: min(100% - 32px, var(--max-width));
-      }
-
-      .nav-inner {
-        height: 68px;
-      }
-
-      .menu-toggle {
-        display: block;
-      }
+      .container, .nav-inner { width: min(100% - 32px, var(--max-width)); }
+      .nav-inner { height: 68px; }
+      .menu-toggle { display: block; }
 
       .nav-links {
         position: absolute;
@@ -812,14 +674,8 @@
         border-bottom: 1px solid var(--border);
       }
 
-      .nav-links.open {
-        display: flex;
-      }
-
-      .nav-links li a {
-        display: block;
-        padding: 13px 0;
-      }
+      .nav-links.open { display: flex; }
+      .nav-links li a { display: block; padding: 13px 0; }
 
       .nav-contact {
         display: inline-block !important;
@@ -827,88 +683,41 @@
         margin-top: 8px;
       }
 
-      .section {
-        padding: 80px 0;
-      }
-
-      .hero {
-        min-height: auto;
-        padding: 120px 0 80px;
-      }
-
-      .hero h1 {
-        font-size: clamp(44px, 13vw, 65px);
-      }
-
-      .hero-description {
-        font-size: 15px;
-      }
-
-      .skills-grid,
-      .credentials-grid {
-        grid-template-columns: 1fr;
-      }
-
-      .project-content {
-        padding: 24px;
-      }
-
-      .project-image {
-        min-height: 180px;
-        padding: 12px;
-      }
-
-      .project-image img {
-        max-height: 260px;
-      }
-
-      .contact-panel {
-        padding: 35px 25px;
-      }
-
-      .footer-inner {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-
-      .section-heading h2 {
-        font-size: 30px;
-      }
+      .section { padding: 80px 0; }
+      .hero { min-height: auto; padding: 120px 0 80px; }
+      .hero h1 { font-size: clamp(44px, 13vw, 65px); }
+      .hero-description { font-size: 15px; }
+      .skills-grid, .credentials-grid { grid-template-columns: 1fr; }
+      .project-content { padding: 24px; }
+      .project-image { min-height: 180px; padding: 12px; }
+      .project-image img { max-height: 260px; }
+      .contact-panel { padding: 35px 25px; }
+      .footer-inner { flex-direction: column; align-items: flex-start; }
+      .section-heading h2 { font-size: 30px; }
     }
 
     @media (prefers-reduced-motion: reduce) {
-      *,
-      *::before,
-      *::after {
+      *, *::before, *::after {
         scroll-behavior: auto !important;
         animation-duration: 0.01ms !important;
         transition-duration: 0.01ms !important;
       }
 
-      .reveal {
-        opacity: 1;
-        transform: none;
-      }
+      .reveal { opacity: 1; transform: none; }
     }
   </style>
 </head>
 
 <body>
-
   <div class="background-glow"></div>
   <div class="grid-background"></div>
   <canvas id="particles"></canvas>
   <div class="progress-bar" id="progressBar"></div>
 
-  <!-- NAVIGATION -->
-
   <header class="navbar" id="navbar">
     <nav class="nav-inner">
       <a href="#home" class="logo">ANDRE<span>-JOE</span></a>
-
-      <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation">
-        ☰
-      </button>
+      <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation">☰</button>
 
       <ul class="nav-links" id="navLinks">
         <li><a href="#home">Home</a></li>
@@ -921,22 +730,15 @@
   </header>
 
   <main>
-
-    <!-- HERO -->
-
     <section class="hero" id="home">
       <div class="container hero-content">
-
         <div class="hero-text">
           <div class="eyebrow">
             <span class="online-dot"></span>
-            AI & COMPUTER VISION DEVELOPER
+            AI &amp; COMPUTER VISION DEVELOPER
           </div>
 
-          <h1>
-            Hello, I'm<br>
-            <span class="gradient-text">Andre-Joe.</span>
-          </h1>
+          <h1>Hello, I'm<br><span class="gradient-text">Andre-Joe.</span></h1>
 
           <p class="hero-description">
             I build intelligent systems using Artificial Intelligence and
@@ -949,13 +751,8 @@
           </div>
 
           <div class="hero-buttons">
-            <a href="#projects" class="btn btn-primary">
-              Explore My Work <span>↗</span>
-            </a>
-
-            <a href="#contact" class="btn btn-outline">
-              Get In Touch
-            </a>
+            <a href="#projects" class="btn btn-primary">Explore My Work <span>↗</span></a>
+            <a href="#contact" class="btn btn-outline">Get In Touch</a>
           </div>
         </div>
 
@@ -963,18 +760,11 @@
           <div class="profile-orbit">
             <div class="orbit-ring"></div>
             <div class="orbit-ring orbit-ring-two"></div>
-            <img
-              src="/assets/me.jpg"
-              alt="Andre Joe Mhawej"
-              class="profile-image"
-            >
+            <img src="/assets/me.jpg" alt="Andre Joe Mhawej" class="profile-image">
           </div>
         </div>
-
       </div>
     </section>
-
-    <!-- TECHNOLOGY MARQUEE -->
 
     <div class="marquee-wrapper">
       <div class="marquee">
@@ -984,7 +774,6 @@
         <span>OBJECT DETECTION</span>
         <span>YOLOv8</span>
         <span>PYTHON</span>
-
         <span>ARTIFICIAL INTELLIGENCE</span>
         <span>COMPUTER VISION</span>
         <span>DEEP LEARNING</span>
@@ -994,11 +783,8 @@
       </div>
     </div>
 
-    <!-- PROJECTS -->
-
     <section class="section" id="projects">
       <div class="container">
-
         <div class="section-heading reveal">
           <span class="section-number">01 /</span>
           <h2>Selected Projects</h2>
@@ -1010,23 +796,14 @@
         </p>
 
         <div class="projects-grid">
-
-          <!-- SKY EYE -->
-
           <article class="project-card reveal">
             <div class="project-image">
-              <img
-                src="/assets/skyeye.png"
-                alt="SkyEye traffic monitoring system"
-                loading="lazy"
-              >
+              <img src="/assets/skyeye.png" alt="SkyEye traffic monitoring system" loading="lazy">
             </div>
 
             <div class="project-content">
               <div class="project-label">FEATURED PROJECT / COMPUTER VISION</div>
-
               <h3>SkyEye</h3>
-
               <p>
                 A real-time traffic monitoring system designed to detect
                 multiple traffic violations using two YOLOv8 models.
@@ -1044,33 +821,20 @@
               </div>
 
               <div class="project-links">
-                <a href="/assets/SkyEye.html" target="_blank" rel="noopener">
-                  Explore the System ↗
-                </a>
-
-                <a href="/assets/Andre%20Joe%20Mhawej%20Paper.pdf" target="_blank" rel="noopener">
-                  Read Research Paper ↗
-                </a>
+                <a href="/assets/SkyEye.html" target="_blank" rel="noopener">Explore the System ↗</a>
+                <a href="/assets/Andre%20Joe%20Mhawej%20Paper.pdf" target="_blank" rel="noopener">Read Research Paper ↗</a>
               </div>
             </div>
           </article>
 
-          <!-- CHATBOT -->
-
           <article class="project-card reveal">
             <div class="project-image">
-              <img
-                src="/assets/chatbot-web.png"
-                alt="AI chatbot web application"
-                loading="lazy"
-              >
+              <img src="/assets/chatbot-web.png" alt="AI chatbot web application" loading="lazy">
             </div>
 
             <div class="project-content">
               <div class="project-label">AI APPLICATION</div>
-
               <h3>AI Chatbot</h3>
-
               <p>
                 A web-based chatbot application that provides an interactive
                 conversational experience through an AI-powered interface.
@@ -1083,29 +847,19 @@
               </div>
 
               <div class="project-links">
-                <a href="https://andre-joe.github.io/University-Preview/" target="_blank" rel="noopener">
-                  Chat with the Bot ↗
-                </a>
+                <a href="https://andre-joe.github.io/University-Preview/" target="_blank" rel="noopener">Chat with the Bot ↗</a>
               </div>
             </div>
           </article>
 
-          <!-- HOUSE PRICE PREDICTOR -->
-
           <article class="project-card reveal">
             <div class="project-image">
-              <img
-                src="/assets/HouseTop.png"
-                alt="House price prediction application"
-                loading="lazy"
-              >
+              <img src="/assets/HouseTop.png" alt="House price prediction application" loading="lazy">
             </div>
 
             <div class="project-content">
               <div class="project-label">MACHINE LEARNING APPLICATION</div>
-
               <h3>House Price Predictor</h3>
-
               <p>
                 A predictive application that estimates house prices based
                 on property-related information, demonstrating the use of
@@ -1119,22 +873,16 @@
               </div>
 
               <div class="project-links">
-                <a href="https://andre-joe.github.io/House-Preview/" target="_blank" rel="noopener">
-                  Predict a House Price ↗
-                </a>
+                <a href="https://andre-joe.github.io/House-Preview/" target="_blank" rel="noopener">Predict a House Price ↗</a>
               </div>
             </div>
           </article>
-
         </div>
       </div>
     </section>
 
-    <!-- SKILLS -->
-
     <section class="section" id="skills">
       <div class="container">
-
         <div class="section-heading reveal">
           <span class="section-number">02 /</span>
           <h2>Technical Skills</h2>
@@ -1146,150 +894,91 @@
         </p>
 
         <div class="skills-grid">
-
           <div class="skill-card reveal">
             <div class="skill-icon">⌘</div>
             <h3>Programming</h3>
-            <p>
-              Python, object-oriented programming, problem solving,
-              and software development fundamentals.
-            </p>
+            <p>Python, object-oriented programming, problem solving, and software development fundamentals.</p>
           </div>
 
           <div class="skill-card reveal">
             <div class="skill-icon">◉</div>
             <h3>Computer Vision</h3>
-            <p>
-              Object detection, image processing, video analysis,
-              bounding boxes, and real-time vision applications.
-            </p>
+            <p>Object detection, image processing, video analysis, bounding boxes, and real-time vision applications.</p>
           </div>
 
           <div class="skill-card reveal">
             <div class="skill-icon">✳</div>
             <h3>Deep Learning</h3>
-            <p>
-              Neural networks, YOLOv8, model training, evaluation,
-              dataset preparation, and performance optimization.
-            </p>
+            <p>Neural networks, YOLOv8, model training, evaluation, dataset preparation, and performance optimization.</p>
           </div>
 
           <div class="skill-card reveal">
             <div class="skill-icon">⌬</div>
             <h3>Artificial Intelligence</h3>
-            <p>
-              Machine learning concepts, predictive systems,
-              supervised learning, and practical AI applications.
-            </p>
+            <p>Machine learning concepts, predictive systems, supervised learning, and practical AI applications.</p>
           </div>
 
           <div class="skill-card reveal">
             <div class="skill-icon">▤</div>
             <h3>Data Preparation</h3>
-            <p>
-              Data collection, annotation, preprocessing,
-              augmentation, and dataset organization.
-            </p>
+            <p>Data collection, annotation, preprocessing, augmentation, and dataset organization.</p>
           </div>
 
           <div class="skill-card reveal">
             <div class="skill-icon">⌘</div>
             <h3>Development Tools</h3>
-            <p>
-              Git, GitHub, Roboflow, development environments,
-              and technical documentation.
-            </p>
+            <p>Git, GitHub, Roboflow, development environments, and technical documentation.</p>
           </div>
-
         </div>
       </div>
     </section>
 
-    <!-- CREDENTIALS -->
-
     <section class="section" id="credentials">
       <div class="container">
-
         <div class="section-heading reveal">
           <span class="section-number">03 /</span>
           <h2>Credentials</h2>
         </div>
 
         <div class="credentials-grid">
-
           <div class="credential-card reveal">
             <div class="credential-type">RESEARCH PUBLICATION</div>
-
             <h3>IEEE Conference Paper</h3>
-
             <p>
               SkyEye: A Real-Time Multi-Violation Traffic Monitoring System
               Using Dual YOLOv8 Models with Automated Evidence Extraction.
               Published in the 2026 IEEE International Conference on
               Intelligent Computing and Next-Generation Technologies.
             </p>
-
-            <a
-              href="/assets/Andre%20Joe%20Mhawej%20Paper.pdf"
-              target="_blank"
-              rel="noopener"
-            >
-              View Research Paper ↗
-            </a>
+            <a href="/assets/Andre%20Joe%20Mhawej%20Paper.pdf" target="_blank" rel="noopener">View Research Paper ↗</a>
           </div>
 
           <div class="credential-card reveal">
             <div class="credential-type">ACADEMIC BACKGROUND</div>
-
             <h3>Academic Transcript</h3>
-
-            <p>
-              Academic record documenting my engineering studies
-              and university coursework.
-            </p>
-
-            <a href="/assets/transcript.pdf" target="_blank" rel="noopener">
-              View Transcript ↗
-            </a>
+            <p>Academic record documenting my engineering studies and university coursework.</p>
+            <a href="/assets/transcript.pdf" target="_blank" rel="noopener">View Transcript ↗</a>
           </div>
 
           <div class="credential-card reveal">
             <div class="credential-type">ONLINE LEARNING</div>
-
             <h3>Coursera</h3>
-
-            <p>
-              Online learning profile and completed coursework.
-            </p>
-
-            <a
-              href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18"
-              target="_blank"
-              rel="noopener"
-            >
-              View Profile ↗
-            </a>
+            <p>Online learning profile and completed coursework.</p>
+            <a href="https://www.coursera.org/user/b2be56243c7bbe7e10eecb1fac05bd18" target="_blank" rel="noopener">View Profile ↗</a>
           </div>
-
         </div>
       </div>
     </section>
 
-    <!-- CONTACT -->
-
     <section class="section contact-section" id="contact">
       <div class="container">
-
         <div class="contact-panel reveal">
           <div class="eyebrow">
             <span class="online-dot"></span>
             CONTACT
           </div>
 
-          <h2>
-            Let's build something<br>
-            <span class="gradient-text">intelligent.</span>
-          </h2>
+          <h2>Let's build something<br><span class="gradient-text">intelligent.</span></h2>
 
           <p>
             Interested in Artificial Intelligence, Computer Vision,
@@ -1297,32 +986,14 @@
           </p>
 
           <div class="contact-links">
-
-            <a href="mailto:amhawej38@gmail.com">
-              Email ↗
-            </a>
-
-            <a
-              href="https://www.linkedin.com/in/andre-joe-mhawej-55a081279"
-              target="_blank"
-              rel="noopener"
-            >
-              LinkedIn ↗
-            </a>
-
-            <a href="tel:+96171679208">
-              +961 71 679 208
-            </a>
-
+            <a href="mailto:amhawej38@gmail.com">Email ↗</a>
+            <a href="https://www.linkedin.com/in/andre-joe-mhawej-55a081279" target="_blank" rel="noopener">LinkedIn ↗</a>
+            <a href="tel:+96171679208">+961 71 679 208</a>
           </div>
         </div>
-
       </div>
     </section>
-
   </main>
-
-  <!-- FOOTER -->
 
   <footer class="footer">
     <div class="container footer-inner">
@@ -1332,31 +1003,19 @@
   </footer>
 
   <script>
-    // CURRENT YEAR
-
-    document.getElementById("year").textContent =
-      new Date().getFullYear();
-
-
-    // NAVIGATION SCROLL EFFECT
+    document.getElementById("year").textContent = new Date().getFullYear();
 
     const navbar = document.getElementById("navbar");
-
     window.addEventListener("scroll", () => {
       navbar.classList.toggle("scrolled", window.scrollY > 30);
     });
-
-
-    // MOBILE MENU
 
     const menuToggle = document.getElementById("menuToggle");
     const navLinks = document.getElementById("navLinks");
 
     menuToggle.addEventListener("click", () => {
       navLinks.classList.toggle("open");
-
-      menuToggle.textContent =
-        navLinks.classList.contains("open") ? "×" : "☰";
+      menuToggle.textContent = navLinks.classList.contains("open") ? "×" : "☰";
     });
 
     document.querySelectorAll(".nav-links a").forEach(link => {
@@ -1366,11 +1025,7 @@
       });
     });
 
-
-    // TYPING ANIMATION
-
     const typingText = document.getElementById("typingText");
-
     const phrases = [
       "Building intelligent systems.",
       "Turning data into insights.",
@@ -1384,15 +1039,8 @@
 
     function typeEffect() {
       const currentPhrase = phrases[phraseIndex];
-
-      if (deleting) {
-        characterIndex--;
-      } else {
-        characterIndex++;
-      }
-
-      typingText.textContent =
-        currentPhrase.substring(0, characterIndex);
+      characterIndex += deleting ? -1 : 1;
+      typingText.textContent = currentPhrase.substring(0, characterIndex);
 
       let delay = deleting ? 35 : 65;
 
@@ -1410,43 +1058,26 @@
 
     typeEffect();
 
-
-    // SCROLL REVEAL
-
-    const revealObserver = new IntersectionObserver(
-      entries => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add("visible");
-            revealObserver.unobserve(entry.target);
-          }
-        });
-      },
-      { threshold: 0.12 }
-    );
+    const revealObserver = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("visible");
+          revealObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12 });
 
     document.querySelectorAll(".reveal").forEach(element => {
       revealObserver.observe(element);
     });
 
-
-    // SCROLL PROGRESS BAR
-
     const progressBar = document.getElementById("progressBar");
 
     window.addEventListener("scroll", () => {
-      const scrollable =
-        document.documentElement.scrollHeight - window.innerHeight;
-
-      const progress = scrollable > 0
-        ? (window.scrollY / scrollable) * 100
-        : 0;
-
+      const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = scrollable > 0 ? (window.scrollY / scrollable) * 100 : 0;
       progressBar.style.width = progress + "%";
     });
-
-
-    // BACKGROUND PARTICLES
 
     const canvas = document.getElementById("particles");
     const ctx = canvas.getContext("2d");
@@ -1458,7 +1089,6 @@
     function resizeCanvas() {
       canvasWidth = canvas.width = window.innerWidth;
       canvasHeight = canvas.height = window.innerHeight;
-
       createParticles();
     }
 
@@ -1489,27 +1119,12 @@
         particle.x += particle.speedX;
         particle.y += particle.speedY;
 
-        if (particle.x < 0 || particle.x > canvasWidth) {
-          particle.speedX *= -1;
-        }
-
-        if (particle.y < 0 || particle.y > canvasHeight) {
-          particle.speedY *= -1;
-        }
+        if (particle.x < 0 || particle.x > canvasWidth) particle.speedX *= -1;
+        if (particle.y < 0 || particle.y > canvasHeight) particle.speedY *= -1;
 
         ctx.beginPath();
-
-        ctx.arc(
-          particle.x,
-          particle.y,
-          particle.radius,
-          0,
-          Math.PI * 2
-        );
-
-        ctx.fillStyle =
-          `rgba(165,255,203,${particle.opacity})`;
-
+        ctx.arc(particle.x, particle.y, particle.radius, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(165,255,203,${particle.opacity})`;
         ctx.fill();
       });
 
@@ -1518,9 +1133,7 @@
 
     resizeCanvas();
     animateParticles();
-
     window.addEventListener("resize", resizeCanvas);
   </script>
-
 </body>
 </html>
