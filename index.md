@@ -1,3 +1,4 @@
+
 ---
 layout: null
 title: Andre Joe Mhawej | AI & Computer Vision
@@ -21,7 +22,6 @@ title: Andre Joe Mhawej | AI & Computer Vision
     :root {
       --bg: #08090d;
       --surface: #101218;
-      --surface-light: #171a23;
       --text: #f0f0f2;
       --muted: #9295a2;
       --accent: #a5ffcb;
@@ -54,10 +54,6 @@ title: Andre Joe Mhawej | AI & Computer Vision
     a {
       color: inherit;
       text-decoration: none;
-    }
-
-    button {
-      font: inherit;
     }
 
     ::selection {
@@ -139,10 +135,6 @@ title: Andre Joe Mhawej | AI & Computer Vision
 
     .muted {
       color: var(--muted);
-    }
-
-    .mono {
-      font-family: var(--mono);
     }
 
     .accent {
@@ -274,7 +266,7 @@ title: Andre Joe Mhawej | AI & Computer Vision
       margin-bottom: 25px;
     }
 
-    .hero h1 .gradient-text {
+    .gradient-text {
       background: linear-gradient(100deg, var(--accent), var(--accent-2));
       -webkit-background-clip: text;
       background-clip: text;
@@ -460,54 +452,53 @@ title: Andre Joe Mhawej | AI & Computer Vision
     }
 
     .projects-grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
+      display: flex;
+      flex-direction: column;
       gap: 25px;
     }
 
     .project-card {
-      position: relative;
+      display: grid;
+      grid-template-columns: 42% 58%;
+      align-items: stretch;
       overflow: hidden;
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 8px;
       transition: transform 0.35s ease, border-color 0.35s ease;
-      transform-style: preserve-3d;
     }
 
     .project-card:hover {
       border-color: rgba(165,255,203,0.55);
-      transform: translateY(-8px);
+      transform: translateY(-5px);
     }
 
     .project-card.featured {
-      grid-column: 1 / -1;
-      display: grid;
-      grid-template-columns: 1.15fr 0.85fr;
+      grid-template-columns: 42% 58%;
     }
 
     .project-image {
-      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 260px;
+      padding: 15px;
       overflow: hidden;
-      min-height: 240px;
       background: #171a23;
     }
 
     .project-image img {
+      display: block;
       width: 100%;
       height: 100%;
-      min-height: 240px;
-      display: block;
-      object-fit: cover;
-      transition: transform 0.6s ease;
+      min-height: 0;
+      max-height: 360px;
+      object-fit: contain;
+      transition: transform 0.5s ease;
     }
 
     .project-card:hover .project-image img {
-      transform: scale(1.045);
-    }
-
-    .featured .project-image img {
-      min-height: 390px;
+      transform: scale(1.025);
     }
 
     .project-content {
@@ -764,7 +755,7 @@ title: Andre Joe Mhawej | AI & Computer Vision
       box-shadow: 0 0 10px var(--accent);
     }
 
-    /* RESPONSIVE */
+    /* TABLET */
 
     @media (max-width: 850px) {
       .hero-content {
@@ -792,18 +783,25 @@ title: Andre Joe Mhawej | AI & Computer Vision
         letter-spacing: -3px;
       }
 
+      .project-card,
       .project-card.featured {
         grid-template-columns: 1fr;
       }
 
-      .featured .project-image img {
-        min-height: 270px;
+      .project-image {
+        min-height: 220px;
+      }
+
+      .project-image img {
+        max-height: 320px;
       }
 
       .skills-grid {
         grid-template-columns: repeat(2, 1fr);
       }
     }
+
+    /* MOBILE */
 
     @media (max-width: 650px) {
       .container,
@@ -865,18 +863,22 @@ title: Andre Joe Mhawej | AI & Computer Vision
         font-size: 15px;
       }
 
-      .projects-grid,
       .skills-grid,
       .credentials-grid {
         grid-template-columns: 1fr;
       }
 
-      .project-card.featured {
-        grid-column: auto;
-      }
-
       .project-content {
         padding: 24px;
+      }
+
+      .project-image {
+        min-height: 180px;
+        padding: 12px;
+      }
+
+      .project-image img {
+        max-height: 260px;
       }
 
       .contact-panel {
@@ -1303,7 +1305,10 @@ title: Andre Joe Mhawej | AI & Computer Vision
             CONTACT
           </div>
 
-          <h2>Let's build something<br><span class="gradient-text">intelligent.</span></h2>
+          <h2>
+            Let's build something<br>
+            <span class="gradient-text">intelligent.</span>
+          </h2>
 
           <p>
             Interested in Artificial Intelligence, Computer Vision,
@@ -1311,21 +1316,23 @@ title: Andre Joe Mhawej | AI & Computer Vision
           </p>
 
           <div class="contact-links">
+
             <a href="mailto:amhawej38@gmail.com">
               Email ↗
             </a>
 
-            <a href="https://github.com/Andre-Joe" target="_blank" rel="noopener">
-              GitHub ↗
-            </a>
-
-            <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+            <a
+              href="https://www.linkedin.com/in/andre-joe-mhawej-55a081279"
+              target="_blank"
+              rel="noopener"
+            >
               LinkedIn ↗
             </a>
 
             <a href="tel:+96171679208">
               +961 71 679 208
             </a>
+
           </div>
         </div>
 
@@ -1346,7 +1353,8 @@ title: Andre Joe Mhawej | AI & Computer Vision
   <script>
     // CURRENT YEAR
 
-    document.getElementById("year").textContent = new Date().getFullYear();
+    document.getElementById("year").textContent =
+      new Date().getFullYear();
 
 
     // NAVIGATION SCROLL EFFECT
@@ -1365,7 +1373,9 @@ title: Andre Joe Mhawej | AI & Computer Vision
 
     menuToggle.addEventListener("click", () => {
       navLinks.classList.toggle("open");
-      menuToggle.textContent = navLinks.classList.contains("open") ? "×" : "☰";
+
+      menuToggle.textContent =
+        navLinks.classList.contains("open") ? "×" : "☰";
     });
 
     document.querySelectorAll(".nav-links a").forEach(link => {
@@ -1400,7 +1410,8 @@ title: Andre Joe Mhawej | AI & Computer Vision
         characterIndex++;
       }
 
-      typingText.textContent = currentPhrase.substring(0, characterIndex);
+      typingText.textContent =
+        currentPhrase.substring(0, characterIndex);
 
       let delay = deleting ? 35 : 65;
 
@@ -1506,6 +1517,7 @@ title: Andre Joe Mhawej | AI & Computer Vision
         }
 
         ctx.beginPath();
+
         ctx.arc(
           particle.x,
           particle.y,
@@ -1514,7 +1526,9 @@ title: Andre Joe Mhawej | AI & Computer Vision
           Math.PI * 2
         );
 
-        ctx.fillStyle = `rgba(165,255,203,${particle.opacity})`;
+        ctx.fillStyle =
+          `rgba(165,255,203,${particle.opacity})`;
+
         ctx.fill();
       });
 
