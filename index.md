@@ -1,9 +1,4 @@
 
----
-layout: null
-title: Andre Joe Mhawej | AI & Computer Vision
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -131,14 +126,6 @@ title: Andre Joe Mhawej | AI & Computer Vision
       flex: 1;
       background: var(--border);
       margin-left: 15px;
-    }
-
-    .muted {
-      color: var(--muted);
-    }
-
-    .accent {
-      color: var(--accent);
     }
 
     /* NAVIGATION */
@@ -319,7 +306,6 @@ title: Andre Joe Mhawej | AI & Computer Vision
       font-size: 13px;
       font-weight: 600;
       transition: 0.25s ease;
-      cursor: pointer;
     }
 
     .btn-primary {
@@ -471,10 +457,6 @@ title: Andre Joe Mhawej | AI & Computer Vision
     .project-card:hover {
       border-color: rgba(165,255,203,0.55);
       transform: translateY(-5px);
-    }
-
-    .project-card.featured {
-      grid-template-columns: 42% 58%;
     }
 
     .project-image {
@@ -631,7 +613,7 @@ title: Andre Joe Mhawej | AI & Computer Vision
       transform: translateY(-5px);
     }
 
-    .credential-card .credential-type {
+    .credential-type {
       color: var(--accent);
       font-family: var(--mono);
       font-size: 11px;
@@ -783,8 +765,7 @@ title: Andre Joe Mhawej | AI & Computer Vision
         letter-spacing: -3px;
       }
 
-      .project-card,
-      .project-card.featured {
+      .project-card {
         grid-template-columns: 1fr;
       }
 
@@ -1032,7 +1013,7 @@ title: Andre Joe Mhawej | AI & Computer Vision
 
           <!-- SKY EYE -->
 
-          <article class="project-card featured reveal">
+          <article class="project-card reveal">
             <div class="project-image">
               <img
                 src="/assets/skyeye.png"
@@ -1064,7 +1045,7 @@ title: Andre Joe Mhawej | AI & Computer Vision
 
               <div class="project-links">
                 <a href="/assets/SkyEye.html" target="_blank" rel="noopener">
-                  Explore SkyEye ↗
+                  Explore the System ↗
                 </a>
 
                 <a href="/assets/Andre%20Joe%20Mhawej%20Paper.pdf" target="_blank" rel="noopener">
@@ -1103,7 +1084,7 @@ title: Andre Joe Mhawej | AI & Computer Vision
 
               <div class="project-links">
                 <a href="https://andre-joe.github.io/University-Preview/" target="_blank" rel="noopener">
-                  View Project ↗
+                  Chat with the Bot ↗
                 </a>
               </div>
             </div>
@@ -1139,7 +1120,7 @@ title: Andre Joe Mhawej | AI & Computer Vision
 
               <div class="project-links">
                 <a href="https://andre-joe.github.io/House-Preview/" target="_blank" rel="noopener">
-                  View Project ↗
+                  Predict a House Price ↗
                 </a>
               </div>
             </div>
